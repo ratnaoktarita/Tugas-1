@@ -1,0 +1,36 @@
+Nama : Ratna Oktarita
+Kelas : 5 MIP
+NIM : 062040832824
+Apa itu Git dan kegunaanya:
+Git Adalah sebuah software yang memungkinkan para programmer untuk berkolaborasi dalam mengembangkan sebuah software
+Kegunaan Git:Git memiliki beberapa fungsi yang memungkinkan penggunanya untuk melakukan berbagai hal, sesuai dengan fiturnya:
+Kolaborasi – Anda bisa mengerjakan proyek yang sama dengan orang berbeda (kejra tim).
+Open-source – Git adalah tool open-source yang bisa digunakan juga untuk membuat software open-source.
+Mengorganisasi – Alih-alih menyimpan proyek Anda di folder seperti v1, v2, v3, dan seterusnya, Anda memiliki satu proyek dengan database khusus yang berisi semua versi file.
+Fleksibilitas Platform – Ada beberapa layanan hosting Git yang tersedia saat ini, termasuk Gitlab, GitHub, Bitbucket, dan SourceForge. Lebih baik lagi, Anda dapat menggunakan solusi yang dihosting sendiri untuk semua proyek Anda.
+Backup – Anda bisa kembali ke versi sebelumnya dengan mudah bila terjadi error atau kendala saat membuat versi terbaru.
+Apa itu Github dan kegunaanya:
+GitHub adalah website yang digunakan untuk menyimpan dan mengelola kode suatu project. 
+Anda dapat membuat atau mengupload kode Anda ke server GitHub dan kemudian melakukan coding secara online
+Kegunaan Github :GitHub digunakan untuk menyimpan source code untuk suatu proyek dan melacak riwayat lengkap semua perubahan kode itu
+Sebutkan istilah-istilah yang ada di Git dan jelaskan masing-masing istilah tersebut
+Repositori
+Repositori sendiri adalah deriktori penyimpanan file-file proyek. File-file tersebut bisa berupa file gambar, 
+file kode, atau file audio, tapi biasanya dan kebanyakan berisi file kode. Letak Repositori sendiri ada di penyimpanan GitHub atau penyimpanan lokal komputer Anda.
+Forking Repositori
+Forking Repositori merupakan fitur yang singkatnya berguna untuk menyalin Repositori yang sudah ada ke Repositori baru, 
+lalu menambahkan beberapa perubahan dan menjadikannya Repositori Anda.
+Branch
+Singkatnya Branch adalah salinan Repositori yang digunakan apabila memulai suatu pengembangan proyek secara terpisah. 
+Branch ini memungkinkan kita melakukan suatu pengembangan secara terpisah tanpa menggangu Repositori atau Branch lain.
+Pull Request
+Singkatnya Pull Request merupakan perintah untuk mengirimkan informasi dari Branch ke Master Repositori 
+bahwa Anda telah melakukan perubahan atau penambahan di Branch.
+ Sebutkan layanan selain github:
+ SourceForge 
+- CodePlex 
+- BitBucket 
+- GitLab 
+- BeanStalk 
+- Google Cloud Source
+DLL
